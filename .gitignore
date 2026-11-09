@@ -1,0 +1,35 @@
+# Compiled files
+*.class
+*.o
+*.obj
+*.exe
+*.out
+*.dll
+*.so
+
+# Java
+target/
+*.jar
+
+# C / C++
+build/
+cmake-build-*/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
